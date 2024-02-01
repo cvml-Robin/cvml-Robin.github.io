@@ -20,10 +20,10 @@
 
 ### 项目申报
 
-1. [2022-12-30] [自然科学基金计划申报书模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
-2. [2022-12-30] [基金申请书模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
-3. [2022-12-30] [如何填报项目申请书](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
-4. [2022-12-30] [报价表参考模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
+1. [2022-12-30] [自然科学基金计划申报书模板](https://docs.google.com/document/d/1ZQPaZonpPTZxX64OiBI1S90Z7QIntM4p/edit?usp=drive_link&ouid=112844428871035202140&rtpof=true&sd=true)
+2. [2022-12-30] [基金申请书模板](https://docs.google.com/document/d/1mUFZcLwj_5I7kNkufXnTGazkT9g04_Xp/edit?usp=drive_link&ouid=112844428871035202140&rtpof=true&sd=true)
+3. [2022-12-30] [如何填报项目申请书](https://drive.google.com/file/d/1PwUCoGKW6hA8ofrvMhXUBMZ_cx5UxlK1/view?usp=drive_link)
+4. [2022-12-30] [报价表参考模板](https://docs.google.com/document/d/1NLGSN6rpkdo440-cI5w97DmwggbgcjBB/edit?usp=drive_link&ouid=112844428871035202140&rtpof=true&sd=true)
 
 
 
