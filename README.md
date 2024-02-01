@@ -2,7 +2,7 @@
 
 ### 技术笔记
 
-1. [3D点云技术-认识3D点云](https://zhuanlan.zhihu.com/p/647670279)
+1. [3D点云技术-认识3D点云](https://zhuanlan.zhihu.com/p/647670279){: style="color: #000000;"}
 1. [点云数据处理](https://zhuanlan.zhihu.com/p/498892147)
 1. [激光雷达和点云算法汇总](https://zhuanlan.zhihu.com/p/642478746)
 1. [点云配准综述](https://zhuanlan.zhihu.com/p/91275450)
