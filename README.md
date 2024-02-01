@@ -31,9 +31,3 @@
 ------
 
 联系作者
-
-电子邮箱：2879398714@qq.com
-GitHub:    [cvml-Robin/notebooks (github.com)](https://github.com/cvml-Robin/notebooks)
-.............
-
-2021.12
