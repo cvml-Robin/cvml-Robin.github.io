@@ -14,7 +14,6 @@
 
 ### 技术笔记
 
-1. [2022-03-16] [深度学习及其在点云中的应用](./technical-reports/深度学习及其在点云中的应用.pptx)
 1. [2022-06-09] [点云处理相关技术调研](./technical-reports/点云处理相关技术调研.docx)
 
 
@@ -22,9 +21,9 @@
 ### 项目申报
 
 1. [2022-12-30] [自然科学基金计划申报书模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
-1. [2022-12-30] [基金申请书模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
-1. [2022-12-30] [如何填报项目申请书](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
-1. [2022-12-30] [报价表参考模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
+2. [2022-12-30] [基金申请书模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
+3. [2022-12-30] [如何填报项目申请书](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
+4. [2022-12-30] [报价表参考模板](https://drive.google.com/drive/folders/11yq8Zo_9piDUfTIQffNvuiPw5H7Br05o?usp=drive_link)
 
 
 
