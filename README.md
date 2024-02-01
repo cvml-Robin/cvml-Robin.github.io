@@ -8,7 +8,7 @@
 1. [点云数据处理](https://zhuanlan.zhihu.com/p/498892147)
 1. [激光雷达和点云算法汇总](https://zhuanlan.zhihu.com/p/642478746)
 1. [点云配准综述](https://zhuanlan.zhihu.com/p/91275450)
-1. [三维点云|点云聚类算法](https://zhuanlan.zhihu.com/p/663822053)
+1. [三维点云：点云聚类算法](https://zhuanlan.zhihu.com/p/663822053)
 2. [激光点云系列之一：详解激光雷达点云数据的处理过程](https://zhuanlan.zhihu.com/p/608099266)
 3. [地面点云快速分割算法---linefit_ground_segmentation](https://zhuanlan.zhihu.com/p/123220950)
 4. [CVPR 2023丨最新3D点云补全方法：ProxyFormer](https://zhuanlan.zhihu.com/p/648163549)
